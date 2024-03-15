@@ -1,9 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T15:46:55.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" version="24.0.6" etag="pfzHRmLnpzVuxaSJOU9x" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T15:57:24.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="7PPE8ba6c_bH3aZmfR8v" version="24.0.6" type="github">
   <diagram name="Página-1" id="VDvTuNJUogok4bshPlbD">
-    <mxGraphModel>
+    <mxGraphModel dx="1674" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oBVNPdmU14TKFL_bj563-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-1" target="oBVNPdmU14TKFL_bj563-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-1" target="oBVNPdmU14TKFL_bj563-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-1" target="oBVNPdmU14TKFL_bj563-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-1" value="GERENECIA GENERAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-2" target="oBVNPdmU14TKFL_bj563-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-2" target="oBVNPdmU14TKFL_bj563-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-2" value="ASISTENCIA DE GERENCIA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-3" target="oBVNPdmU14TKFL_bj563-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-3" value="SECTOR ADMINISTRATIVO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-4" target="oBVNPdmU14TKFL_bj563-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-4" value="SECTOR PRODUCTIVO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-5" target="oBVNPdmU14TKFL_bj563-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-5" target="oBVNPdmU14TKFL_bj563-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-5" value="DIRECCIÓN DE INGENIERÍA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-6" target="oBVNPdmU14TKFL_bj563-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-6" value="SECTOR RR.HH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-7" target="oBVNPdmU14TKFL_bj563-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-7" target="oBVNPdmU14TKFL_bj563-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="660" as="targetPoint" />
+            <mxPoint x="750" y="370" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="800" y="370" />
+              <mxPoint x="800" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-7" value="SECTOR LOGISTICA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-14" target="oBVNPdmU14TKFL_bj563-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-14" value="RESPONSABLES GANADERIA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-15" target="oBVNPdmU14TKFL_bj563-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-15" value="RESPONSABLES AGRICULTURA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oBVNPdmU14TKFL_bj563-16" target="oBVNPdmU14TKFL_bj563-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-16" value="RESPONSABLES MECANICA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-17" value="OPERARIOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-21" value="TRANSPORTISTAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-25" value="DEPARTAMENTO COMERCIAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-26" value="DEPARTAMENTO&lt;br&gt;RR.HH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBVNPdmU14TKFL_bj563-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Organigrama de una empresa agrícola&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;Esto representa la jerarquía de la empresa, habiendo sus responsabilidades y a quienes deben responder los distintos departamentos/sectores&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" width="290" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
